@@ -1,0 +1,204 @@
+[Message: Preloader] BepInEx 6.0.0 - Everything is Crab (2026/5/9 12:14:08)
+[Info   :   BepInEx] System platform: Windows 10 64-bit
+[Info   :   BepInEx] Process bitness: 64-bit (x64)
+[Info   :   BepInEx] Running under Unity 6000.2.15f1
+[Info   :   BepInEx] Runtime version: 6.0.7
+[Info   :   BepInEx] Runtime information: .NET 6.0.7
+[Debug  :   BepInEx] Game executable path: M:\SteamLibrary\steamapps\common\Everything is Crab\Everything is Crab.exe
+[Debug  :   BepInEx] Interop assembly directory: M:\SteamLibrary\steamapps\common\Everything is Crab\BepInEx\interop
+[Debug  :   BepInEx] BepInEx root path: M:\SteamLibrary\steamapps\common\Everything is Crab\BepInEx
+[Info   : Preloader] 0 patcher plugins loaded
+[Debug  :AssemblyPatcher] Assembly loaded: Ak.Wwise.Api.WAAPI.dll
+[Debug  :AssemblyPatcher] Assembly loaded: AK.Wwise.Unity.API.dll
+[Debug  :AssemblyPatcher] Assembly loaded: AK.Wwise.Unity.API.WwiseTypes.dll
+[Debug  :AssemblyPatcher] Assembly loaded: AK.Wwise.Unity.MonoBehaviour.dll
+[Debug  :AssemblyPatcher] Assembly loaded: AK.Wwise.Unity.Timeline.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Assembly-CSharp.dll
+[Debug  :AssemblyPatcher] Assembly loaded: BehaviorDesigner.Runtime.dll
+[Debug  :AssemblyPatcher] Assembly loaded: BezierSolution.Runtime.dll
+[Debug  :AssemblyPatcher] Assembly loaded: com.rlabrecque.steamworks.net.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppMono.Security.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2Cppmscorlib.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppSystem.Configuration.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppSystem.Core.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppSystem.Data.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppSystem.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppSystem.Drawing.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppSystem.Numerics.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppSystem.Runtime.Serialization.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppSystem.Xml.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppSystem.Xml.Linq.dll
+[Debug  :AssemblyPatcher] Assembly loaded: mcs.dll
+[Debug  :AssemblyPatcher] Assembly loaded: MoreMountains.Feedbacks.Authorizations.dll
+[Debug  :AssemblyPatcher] Assembly loaded: MoreMountains.Feedbacks.Cinemachine.dll
+[Debug  :AssemblyPatcher] Assembly loaded: MoreMountains.Feedbacks.dll
+[Debug  :AssemblyPatcher] Assembly loaded: MoreMountains.Feedbacks.HDRP.dll
+[Debug  :AssemblyPatcher] Assembly loaded: MoreMountains.Feedbacks.MMTools.dll
+[Debug  :AssemblyPatcher] Assembly loaded: MoreMountains.Feedbacks.NiceVibrations.dll
+[Debug  :AssemblyPatcher] Assembly loaded: MoreMountains.Feedbacks.PostProcessing.dll
+[Debug  :AssemblyPatcher] Assembly loaded: MoreMountains.Feedbacks.TextMeshPro.dll
+[Debug  :AssemblyPatcher] Assembly loaded: MoreMountains.Feedbacks.URP.dll
+[Debug  :AssemblyPatcher] Assembly loaded: MoreMountains.Interface.dll
+[Debug  :AssemblyPatcher] Assembly loaded: MoreMountains.InventoryEngine.dll
+[Debug  :AssemblyPatcher] Assembly loaded: MoreMountains.Tools.dll
+[Debug  :AssemblyPatcher] Assembly loaded: MoreMountains.TopDownEngine.dll
+[Debug  :AssemblyPatcher] Assembly loaded: MoreMountains.TopDownEngine.InputSystem.dll
+[Debug  :AssemblyPatcher] Assembly loaded: NavMeshPlus.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Newtonsoft.Json.dll
+[Debug  :AssemblyPatcher] Assembly loaded: QFSW.QC.dll
+[Debug  :AssemblyPatcher] Assembly loaded: QFSW.QC.Extras.dll
+[Debug  :AssemblyPatcher] Assembly loaded: QFSW.QC.Grammar.dll
+[Debug  :AssemblyPatcher] Assembly loaded: QFSW.QC.Parsers.dll
+[Debug  :AssemblyPatcher] Assembly loaded: QFSW.QC.ScanRules.dll
+[Debug  :AssemblyPatcher] Assembly loaded: QFSW.QC.Serializers.dll
+[Debug  :AssemblyPatcher] Assembly loaded: QFSW.QC.Suggestors.dll
+[Debug  :AssemblyPatcher] Assembly loaded: QFSW.QC.UI.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Sirenix.OdinInspector.Attributes.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Sirenix.OdinInspector.Modules.Unity.Addressables.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Sirenix.OdinInspector.Modules.UnityLocalization.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Sirenix.Serialization.Config.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Sirenix.Serialization.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Sirenix.Utilities.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Sov3rain.UniCSV.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.2D.Animation.Runtime.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.2D.Common.Runtime.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.2D.SpriteShape.Runtime.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.2D.Tilemap.Extras.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Addressables.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Burst.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Burst.Unsafe.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Cinemachine.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Collections.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Collections.LowLevel.ILSupport.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.InputSystem.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.InputSystem.ForUI.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.InternalAPIEngineBridge.001.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Localization.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Mathematics.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.MemoryProfiler.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Postprocessing.Runtime.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.RenderPipeline.Universal.ShaderLibrary.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.RenderPipelines.Core.Runtime.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.RenderPipelines.Core.Runtime.Shared.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.RenderPipelines.GPUDriven.Runtime.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.RenderPipelines.Universal.2D.Runtime.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.RenderPipelines.Universal.Runtime.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.ResourceManager.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Services.Analytics.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Services.Authentication.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Services.Authentication.PlayerAccounts.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Services.Core.Analytics.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Services.Core.Components.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Services.Core.Configuration.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Services.Core.Device.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Services.Core.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Services.Core.Environments.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Services.Core.Environments.Internal.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Services.Core.Internal.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Services.Core.Registration.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Services.Core.Scheduler.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Services.Core.Telemetry.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Services.Core.Threading.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Services.RemoteConfig.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.SharpZipLib.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.SharpZipLib.Utils.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Splines.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.TextMeshPro.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Timeline.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.VisualScripting.Core.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.AccessibilityModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.AIModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.AndroidJNIModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.AnimationModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.AssetBundleModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.AudioModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.CoreModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.DirectorModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.GridModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.HierarchyCoreModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.IdentifiersModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.ImageConversionModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.IMGUIModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.InputForUIModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.InputLegacyModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.InputModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.JSONSerializeModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.ParticleSystemModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.Physics2DModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.PhysicsModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.PropertiesModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.ScreenCaptureModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.SharedInternalsModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.SpriteMaskModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.SpriteShapeModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.SubsystemsModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.TerrainModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.TextCoreFontEngineModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.TextCoreTextEngineModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.TextRenderingModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.TilemapModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.UI.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.UIElementsModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.UIModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.UnityAnalyticsCommonModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.UnityAnalyticsModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.UnityConsentModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.UnityWebRequestAssetBundleModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.UnityWebRequestModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.VFXModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.VideoModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.VRModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.XRModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: __Generated.dll
+[Info   : Preloader] 0 assemblies discovered
+[Message:AssemblyPatcher] Executing 0 patch(es)
+[Message:   BepInEx] Chainloader initialized
+[Debug  : Preloader] Runtime invoke pointer: 0x7FFC85C33160
+[Debug  :DobbyDetour] Preparing detour from 0x7FFC85C33160 to 0x7FFC4A153224
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFC45C40000
+[Debug  :DobbyDetour] Original: 7FFC85C33160, Trampoline: 7FFC45C40000, diff: 3FFF3160
+[Debug  : Preloader] Runtime invoke patched
+[Debug  :InteropManager] Preloaded 143 interop assemblies in 471ms
+[Debug  :   BepInEx] Examining 'M:\SteamLibrary\steamapps\common\Everything is Crab\BepInEx\plugins\EverythingIsCrabMod\EverythingIsCrabMod.dll'
+[Debug  :   BepInEx] Skipping loading M:\SteamLibrary\steamapps\common\Everything is Crab\BepInEx\plugins\EverythingIsCrabMod\EverythingIsCrabMod_imgui\cimgui.dll because it's not a valid .NET assembly. Full error: Format of the executable (.exe) or library (.dll) is invalid.
+[Info   :   BepInEx] 1 plugin to load
+[Info   :   BepInEx] Loading [Everything is Crab Trainer 1.0.0]
+[Debug  :Il2CppInterop] il2cpp_object_get_virtual_method: 0x7FFC85C33070
+[Debug  :Il2CppInterop] Object::GetVirtualMethod: 0x7FFC85C18AD0
+[Debug  :Il2CppInterop] GetMethod shim: 0x7FFC85BC7240
+[Debug  :Il2CppInterop] GenericMethod::GetMethod (via shim): 0x7FFC85C14DA0
+[Info   :Il2CppInterop] Found write to R8 in shim: xor r8d,r8d at 0x7FFC85BC7244
+[Info   :Il2CppInterop] Found write to R8 in shim: mov r8,[rax+8] at 0x7FFC85BC7251
+[Debug  :Il2CppInterop] GenericMethod::GetMethod call style: 2-param(Il2CppGenericMethod*,bool)
+[Debug  :Il2CppInterop] GenericMethod::GetMethod found: 0x7FFC85C14DA0
+[Debug  :DobbyDetour] Preparing detour from 0x7FFC85C14DA0 to 0x7FFC4A153424
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFC45C40020
+[Debug  :DobbyDetour] Original: 7FFC85C14DA0, Trampoline: 7FFC45C40020, diff: 3FFD4D80
+[Debug  :Il2CppInterop] il2cpp_image_get_class: 0x7FFC85C33BB0
+[Debug  :Il2CppInterop] Image::GetType: 0x7FFC85BD2D50
+[Debug  :Il2CppInterop] MetadataCache::GetTypeInfoFromTypeDefinitionIndex found: 0x7FFC85BD2CA0
+[Debug  :DobbyDetour] Preparing detour from 0x7FFC85BD2CA0 to 0x7FFC4A153464
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFC45C40040
+[Debug  :DobbyDetour] Original: 7FFC85BD2CA0, Trampoline: 7FFC45C40040, diff: 3FF92C60
+[Debug  :Il2CppInterop] Class::GetDefaultFieldValue found: 0x7FFC85BD2ED0
+[Debug  :DobbyDetour] Preparing detour from 0x7FFC85BD2ED0 to 0x7FFC4A1534A4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFC45C40060
+[Debug  :DobbyDetour] Original: 7FFC85BD2ED0, Trampoline: 7FFC45C40060, diff: 3FF92E70
+[Warning:Il2CppInterop] Class::Init signatures have been exhausted, using a substitute!
+[Debug  :Il2CppInterop] Picked mono_class_instance_size as a Class::Init substitute
+[Debug  :Il2CppInterop] Class::Init: 0x7FFC85C34660
+[Debug  :Il2CppInterop] il2cpp_class_from_il2cpp_type: 0x7FFC85C31810
+[Debug  :Il2CppInterop] Class::FromIl2CppType found: 0x7FFC85C209D0
+[Debug  :DobbyDetour] Preparing detour from 0x7FFC85C209D0 to 0x7FFC4A1534E4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFC45C40080
+[Debug  :DobbyDetour] Original: 7FFC85C209D0, Trampoline: 7FFC45C40080, diff: 3FFE0950
+[Debug  :Il2CppInterop] il2cpp_class_from_name: 0x7FFC85C31820
+[Debug  :Il2CppInterop] Class::FromName found: 0x7FFC85BE7740
+[Debug  :DobbyDetour] Preparing detour from 0x7FFC85BE7740 to 0x7FFC4A153524
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFC45C400A0
+[Debug  :DobbyDetour] Original: 7FFC85BE7740, Trampoline: 7FFC45C400A0, diff: 3FFA76A0
+[Info   :Il2CppInterop] Registered mono type EverythingIsCrabMod.UnityImGuiRenderer in il2cpp domain
+[Message:Everything is Crab Trainer] Game Trainer (Steam-imgui-il2cpp 模板) 已加载
+[Message:   BepInEx] Chainloader startup complete
+[Debug  : Preloader] Runtime invoke unpatched

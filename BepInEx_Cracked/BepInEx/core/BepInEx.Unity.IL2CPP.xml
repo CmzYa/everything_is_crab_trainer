@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BepInEx.Unity.IL2CPP</name>
+    </assembly>
+    <members>
+        <member name="M:BepInEx.Unity.IL2CPP.BasePlugin.AddComponent``1">
+            <summary>
+                Add a Component (e.g. MonoBehaviour) into Unity scene.
+                Automatically registers the type with Il2Cpp Type system if it isn't already.
+            </summary>
+            <typeparam name="T">Type of the component to add.</typeparam>
+        </member>
+        <member name="M:BepInEx.Unity.IL2CPP.IL2CPPChainloader.AddUnityComponent``1">
+            <summary>
+                Register and add a Unity Component (for example MonoBehaviour) into BepInEx global manager.
+                Automatically registers the type with Il2Cpp type system if it isn't initialised already.
+            </summary>
+            <typeparam name="T">Type of the component to add.</typeparam>
+        </member>
+        <member name="M:BepInEx.Unity.IL2CPP.IL2CPPChainloader.AddUnityComponent(System.Type)">
+            <summary>
+                Register and add a Unity Component (for example MonoBehaviour) into BepInEx global manager.
+                Automatically registers the type with Il2Cpp type system if it isn't initialised already.
+            </summary>
+            <param name="t">Type of the component to add</param>
+        </member>
+        <member name="E:BepInEx.Unity.IL2CPP.IL2CPPChainloader.PluginLoad">
+            <summary>
+                Occurs after a plugin is instantiated and just before <see cref="M:BepInEx.Unity.IL2CPP.BasePlugin.Load"/> is called.
+            </summary>
+        </member>
+        <member name="M:BepInEx.Unity.IL2CPP.MetadataDumper.TryFindDecryptedMetadataHeader(System.Int64,System.IntPtr@,System.Int64@)">
+            <summary>
+            在满足强特征的 region 里，扫描前100字节找到 header magic，并返回 headerAddress（而不是 region base）。
+            </summary>
+        </member>
+        <member name="M:BepInEx.Unity.IL2CPP.MetadataDumper.TryFindMetadataHeaderViaCodePattern(System.Int64,System.IntPtr@,System.Int64@)">
+            <summary>
+            Fallback 方法:通过搜索代码模式来定位 metadata header 地址。
+            搜索 "48 89 ? ? ? 57 48 83 EC ? E8 ? ? ? ? 48 8B ? 48 89",
+            然后从找到的地址+0x12处解析 mov 指令获取目标地址。
+            </summary>
+        </member>
+        <member name="M:BepInEx.Unity.IL2CPP.MetadataDumper.DumpDecryptedGlobalMetadata(System.String)">
+            <summary>
+            Dump decrypted global-metadata.dat from memory into targetPath.
+            注意：从 headerAddress 开始 dump（会跳过 region base 到 magic 的前置字节）。
+            </summary>
+        </member>
+        <member name="T:BepInEx.Unity.IL2CPP.ModernProgressBar">
+            <summary>
+            Modern custom progress bar with gradient and smooth animations
+            </summary>
+        </member>
+        <member name="T:BepInEx.Unity.IL2CPP.GraphicsExtensions">
+            <summary>
+            Graphics extension methods for rounded rectangles
+            </summary>
+        </member>
+        <member name="T:BepInEx.Unity.IL2CPP.UILanguage">
+            <summary>
+            Language for the progress window
+            </summary>
+        </member>
+        <member name="T:BepInEx.Unity.IL2CPP.UIText">
+            <summary>
+            Localized UI text
+            </summary>
+        </member>
+        <member name="T:BepInEx.Unity.IL2CPP.Il2CppProgressWindow">
+            <summary>
+            Progress window for Il2Cpp Interop generation
+            </summary>
+        </member>
+        <member name="T:BepInEx.Unity.IL2CPP.Il2CppProgressLogger">
+            <summary>
+            自定义 Logger，用于捕获 Il2CppInterop.Generator 的日志消息并更新进度窗口
+            </summary>
+        </member>
+        <member name="T:BepInEx.Unity.IL2CPP.Il2CppProgressLoggerProvider">
+            <summary>
+            自定义 LoggerProvider，用于创建 Il2CppProgressLogger
+            </summary>
+        </member>
+        <member name="M:Doorstop.Entrypoint.Start">
+            <summary>
+                The main entrypoint of BepInEx, called from Doorstop.
+            </summary>
+        </member>
+    </members>
+</doc>
